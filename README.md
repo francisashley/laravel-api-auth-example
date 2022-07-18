@@ -1,6 +1,9 @@
-# Laravel & nextjs OAuth2 user/pass example
+<div align="center">
 
-This is an example of an OAuth2 user/pass system built with nextJS and laravel.
+# Laravel + Next.js + OAuth2 JAMstack prototype
+
+This is a JAMstack prototype using Laravel + Passport API side and Next.js on the front.
+</div>
 
 ## Features included are
 
