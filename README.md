@@ -1,6 +1,6 @@
 <div align="center">
 
-# Laravel + Next.js + OAuth2 JAMstack prototype
+# Laravel + OAuth2 + Next.js prototype
 
 This is a JAMstack prototype using Laravel + Passport API side and Next.js on the front.
 </div>
